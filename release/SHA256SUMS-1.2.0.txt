@@ -1,0 +1,12 @@
+﻿Anvira-Notes-Setup-1.2.0.exe
+sha256:ac0813bdaeb22014ea36d1d8d064f152fbcabdfaeb806110c9330a1e598c7f50
+126490411
+
+Anvira-Notes-Setup-1.2.0.exe.blockmap
+sha256:a42eb6769819f9fa2602b03d4cda4ae52389d103f0b760b4cd9dee2a4a041264
+132294
+
+latest.yml
+sha256:50dd932bae249099032d53f4ffa07b9ebca296eedeb8519633bd05a01699c41e
+353
+
