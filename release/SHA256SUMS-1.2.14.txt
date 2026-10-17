@@ -1,0 +1,3 @@
+5df821adff263d5c06412fd07d0f4c906d65ffc1f63ccdd89a7beee021dbfe89  Anvira-Notes-Setup-1.2.14.exe
+ee02c96e51d8102add51976bc33486e1414167c873c91d51057ccd72b549e064  Anvira-Notes-Setup-1.2.14.exe.blockmap
+024a88b81aef8c3b742704538310ecfdc098d308df984f2ae218f6b192097335  latest.yml
